@@ -1,0 +1,22 @@
+{
+  "name": "smartdocs",
+  "version": "0.0.1",
+  "private": true,
+  "description": "New Swagger API Project",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "swagger-express-mw": "0.0.x",
+    "request": "2.58.0",
+    "adm-zip": "0.4.7",
+    "tmp": "0.0.26",
+    "async": "1.2.1"
+  },
+  "devDependencies": {
+    "should": "^5.2.0",
+    "supertest": "^0.15.0"
+  }
+}

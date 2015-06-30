@@ -1,0 +1,10 @@
+# swagger configuration file
+
+# values in the swagger hash are system configuration for swagger
+swagger:
+  mapErrorsToJson: true
+  validateResponse: false
+  docEndpoints:
+    raw: /swagger
+
+# any other values in this file are just loaded into the config for application access...
